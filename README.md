@@ -128,5 +128,8 @@ The problem was that Power BI auto-detected incorrect relationships (e.g., many-
 - Use View > Performance Analyzer in Power BI to identify bottlenecks.
 - Document all transformations in Power Query for reproducibility.
 
+# final dahsboard screenshot
+![2025-05-28 00 35 46](https://github.com/user-attachments/assets/c50f9f55-8a6b-463a-a5e6-8e2dbdbfb55e)
+
 
 
