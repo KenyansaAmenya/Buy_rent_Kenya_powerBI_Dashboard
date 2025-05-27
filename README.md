@@ -38,6 +38,26 @@ Establish these relationships in Model View:
 
 # 3. Key Measures
 Created in the data model:
+// Average House Price
+Average Price = AVERAGE(Houses[Price])
+
+// Total Annual Tax
+Total Tax = SUM(Taxes[AnnualTaxAmount])
+
+// Monthly Utility Cost
+Total Utilities = SUM(Utilities[MonthlyElectricityCost]) + 
+                  SUM(Utilities[MonthlyWaterCost]) +
+                  SUM(Utilities[MonthlyInternetCost])
+# 4. Visualizations
+The report includes:
+
+- Pie chart: Houses distribution by County
+
+- Bar chart: Average tax per County
+
+- Table: Owner information with property locations
+
+ - KPI cards: Total properties and average utility costs
 ```dax
 // Average House Price
 Average Price = AVERAGE(Houses[Price])
