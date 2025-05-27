@@ -109,4 +109,5 @@ The problem was that Power BI auto-detected incorrect relationships (e.g., many-
 - Document all transformations in Power Query for reproducibility.
 
 # Final Dashboard screenshot
-![2025-05-28 00 35 46](https://github.com/user-attachments/assets/694c9522-67a9-4427-94fc-b153d2b4d7b4)
+
+![2025-05-28 00 35 46](https://github.com/user-attachments/assets/7b765e13-d65d-4005-b5e0-53b67b6022cb)
